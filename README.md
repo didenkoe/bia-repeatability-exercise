@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCT-Advanced-Image-Analysis/bia-repeatability-exercise.git/main?labpath=evaluation.ipynb)
 # BioImage Analysis Repeatability exercise
 
 Goal
