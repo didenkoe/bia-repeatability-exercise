@@ -1,13 +1,10 @@
-# template
-template repo
+# BioImage Analysis Repeatability exercise
 
-## Jupyter Lab
-```
-conda install mamba -c conda-forge
-mamba create --name julab python=3.9 jupyterlab -c conda-forge
-conda activate julab
-```
-optional: Code Formatting Jupyter Notebooks with Black
-```
-mamba install -c conda-forge jupyterlab_code_formatter black isort
-```
+Goal
+ - open FIJI blobs image
+ - manualy count blobs
+ - count blobs using manual threshold and analyze particles (!!! this is not good practice!!!)
+ - count blobs using script with automatic otsu threshold and analyze particles (not counting blobs on edges)
+
+## Downloads
+[FIJI](https://imagej.net/software/fiji/downloads)
