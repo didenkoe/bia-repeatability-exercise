@@ -9,3 +9,6 @@ Goal
 
 ## Downloads
 [FIJI](https://imagej.net/software/fiji/downloads)
+
+## Results
+You can find results in [evaluation](./evaluation.ipynb).
